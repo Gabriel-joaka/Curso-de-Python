@@ -44,7 +44,6 @@ Alternativamente, podemos usar o tkinter para permitir a gente escolher manualme
 
 # Python e Finanças
 Uma das grandes aplicações do Python é para Finanças/Mercado Financeiro. Não é bem uma integração, pois usaremos bibliotecas que já conhecemos, só que aplicadas a ativos financeiros, como por exemplo:Analisando com Média Móvel, ver a performance de uma carteira de ativos, Criando nosso dataframe de Cotações dos ativos da carteira, Vamos ver como que as ações foram individualmente, Criando um dataframe da Carteira com as quantidades de açõese Comparação eCorrelação da Carteira com o IBOV
-pandas
-matplotlib
-numpy
 
+# Python com Power BI
+Usar o Python para fazer os tratamentos de bases de dados, criar colunas, etc. para importar para o Power BI depois -> biblioteca pandas -> exatamente como aprendemos no módulo de pandas.Focado em  usar scripts em Python diretamente dentro do Power BI
